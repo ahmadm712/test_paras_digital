@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178969593991",
+    "project_id": "parasdigital-fd052",
+    "storage_bucket": "parasdigital-fd052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178969593991:android:91f51b9d38eee9f8c81022",
+        "android_client_info": {
+          "package_name": "com.example.paras_digital_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178969593991-ar93kjan8s3svb54s930trvren0r0ppi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWV6FMk6Nf3UfNKaHrIn1aPrFJzSsRxxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178969593991-ar93kjan8s3svb54s930trvren0r0ppi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
